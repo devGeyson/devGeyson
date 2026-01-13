@@ -1,87 +1,76 @@
 # 💻 Geyson Silva
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Programação" />
+</p>
 
-Me chamo Geyson Silva, tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas, desde novo sempre fui muito próximo a tecnologia, busco sempre mais aprendizado através de projetos da comunidade e criando os meus próprios.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devGeyson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
+Olá! 👋  
+Me chamo **Geyson Silva**, tenho **22 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
+Sou apaixonado por tecnologia desde cedo e estou sempre em busca de evolução através de **projetos pessoais**, **estudos contínuos** e **aprendizado com a comunidade**.
 
-<img 
-    align="left"
-    alt="HTML"
-    tittle="HTML"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
-/>
+🚀 Focado em crescimento profissional e em criar soluções eficientes e bem estruturadas.
 
+---
 
-<img
-    align="left"
-    alt="CSS"
-    tittle="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
-/>
+## 🧑‍💻 Tecnologias & Ferramentas
 
-<img
-    align="left"
-    alt="JavaScript"
-    tittle="JavaScript"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/>
+<div align="center"><br>
+  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
 
-<img
-    align="left"
-    alt="NodeJs"
-    tittle="NodeJs"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
+---
 
-<img
-    align="left"
-    alt="React"
-    tittle="React"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-/>
-          
-<img
-    align="left"
-    alt="JAVA"
-    tittle="JAVA"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>          
+## 🚀 Projetos em Destaque
 
-<br>
-<br>
+### 🔹 Cardápio Digital de Hamburgueria
+Aplicação front-end que simula um cardápio digital interativo para hamburgueria.
+Conta com listagem de produtos, carrinho de compras e layout responsivo.
+**Tecnologias:** HTML • TailwindCSS • JavaScript 
+🔗 [Repositório](https://github.com/devGeyson/Cardapio) 
 
-### 📊 Estatísticas
+---
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=devGeyson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+### 🔹 Weather app
+Aplicação front-end para consulta de previsão do tempo em tempo real.
+Consome API de clima para exibir temperatura, condições climáticas e localização de forma responsiva.
+**Tecnologias:** HTML • CSS • JavaScript 
+🔗 [Repositório](https://github.com/devGeyson/weatherforecast) 
 
-<img
-    align="left"
-    alt="Top languages"
-    height="200"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGeyson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+---
 
+## 🎯 Objetivos Atuais
+
+- 🚀 Evoluir como **Desenvolvedor Full Stack**
+- ⚡ Aprofundar conhecimentos em **Node.js e React**
+- 🧠 Aprimorar lógica e boas práticas de código
+- 🌍 Contribuir com projetos **Open Source**
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/geyson-silva-575692223/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:geysonsilvaferreira@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ **Se gostou de algum projeto, deixe uma estrela — isso ajuda muito!**
