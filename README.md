@@ -66,7 +66,7 @@ Consome API de clima para exibir temperatura, condições climáticas e localiza
   <a href="https://www.linkedin.com/in/geyson-silva-575692223/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:geysonsilvaferreira@gmail.com">
+  <a href="mailto:geysonsilvaferreira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
