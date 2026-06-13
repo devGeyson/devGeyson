@@ -1,7 +1,7 @@
 # 💻 Geyson Silva
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Programação" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Programação" />
 </p>
 
 <p align="center">
