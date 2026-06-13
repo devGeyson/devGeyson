@@ -13,7 +13,7 @@
 ## 👨‍💻 Sobre mim
 
 Olá! 👋  
-Me chamo **Geyson Silva**, tenho **22 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
+Me chamo **Geyson Silva**, tenho **22 anos** sou formado em **Análise e Desenvolvimento de Sistemas**.  
 Sou apaixonado por tecnologia desde cedo e estou sempre em busca de evolução através de **projetos pessoais**, **estudos contínuos** e **aprendizado com a comunidade**.
 
 🚀 Focado em crescimento profissional e em criar soluções eficientes e bem estruturadas.
